@@ -1,0 +1,2 @@
+This is an implementation of the dbscan clustering algorithm.
+The inputs are minimum no of neighbours, maximum distance between core points and a numpy array of n-dimensional points.
